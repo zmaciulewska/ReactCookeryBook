@@ -1,0 +1,50 @@
+{
+  "recipes": [
+    {
+      "id": 1,
+      "title": "SZARLOTKA Z BUDYNIOWĄ PIANKĄ",
+      "instruction": " Do mąki dodać proszek do pieczenia, cukier oraz pokrojone w kosteczkę zimne masło. Siekać składniki lub rozdrabniać dłońmi lub mieszadłem miksera na kruszonkę.\n Dodać 4 żółtka (białka odłożyć) i połączyć składniki w jednolite ciasto. Podzielić na 2 części, jedną nieco większą od drugiej. Włożyć do lodówki.\nAby wykonać budyniową piankę należy białka ubić na sztywno z małą szczyptą soli. Następnie stopniowo, po łyżeczce dodawać cukier cały czas cierpliwie ubijając składniki. Stopniowo wsypywać proszki budyniowe cały czas ubijając pianę, następnie stopniowo dodawać olej, również cały czas ubijając składniki.\n Piekarnik nagrzać do 180 stopni C. Większą część ciasta pokroić na plastry i wyłożyć nimi spód ciemnej blaszki do pieczenia o wymiarach ok. 20 x 30 cm, posmarowanej masłem. Spód podoklejać palcami.\nWyłożyć jabłka, następnie budyniową piankę, na wierzch zetrzeć pozostałe ciasto. Wstawić do piekarnika i piec przez ok. 40 minut na złoty kolor. Posypać cukrem pudrem.",
+      "sourceUrl": "https://www.kwestiasmaku.com/przepis/szarlotka-z-budyniowa-pianka",
+      "mealPrepTime": "120",
+      "ingredients": [
+        "300 g mąki pszennej",
+        "1 łyżeczka proszku do pieczenia",
+        "200 g masła (zimnego)",
+        "4 jaja",
+        "2/3 szklanki cukru",
+        "2 budynie waniliowe po 40 g (bez cukru)",
+        "1/3 szklanki oleju roślinnego",
+        "1 kg prażonych jabłek"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "HERBATA Z ROZMARYNEM I GREJPFRUTEM",
+      "instruction": "Herbatę zaparzyć razem z rozmarynem i rozgniecionym w moździerzu pieprzem. Dodać grejpfruta i cytrynę, sok malinowy i maliny. Herbatę można dosłodzić wedle uznania.",
+      "mealPrepTime": "30",
+      "sourceUrl": "https://www.kwestiasmaku.com/drinki/drinki_bezalkoholowe/herbata_z_rozmarynem/przepis.html",
+      "ingredients": [
+        "kubek zaparzonej czarnej herbaty",
+        "gałązka rozmarynu",
+        "szczypta czerwonego pieprzu",
+        "pół plasterka grejpfruta i cytryny",
+        "3 łyżki syropu malinowego"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "TATAR INACZEJ",
+      "instruction": "Mięso dokładnie posiekać lub zmielić w maszynce na średnich oczkach (można zmielić od razu z kilkoma suszonymi pomidorami), dodać sos sojowy, świeżo zmielony czarny pieprz, żółtka, oliwę truflową i olej z suszonych pomidorów. Wymieszać i sprawdzić czy nie trzeba dodać odrobiny soli morskiej.\nPieczywo grubo smarować tatarem, na wierzchu układać kawałki suszonych pomidorów, cebulę oraz szpinak, doprawić solą morską i świeżo zmielonym pieprzem oraz skropić oliwą extra vergine. ",
+      "mealPrepTime": "60",
+      "sourceUrl": "https://www.kwestiasmaku.com/kuchnia_polska/wolowina/tatar_oliwa_truflowa_suszone_pomidory/przepis.html",
+      "ingredients": [
+        "200 g polędwicy wołowej (mięso musi być bardzo świeże i dobrze schłodzone)",
+        "1 łyżka sosu sojowego",
+        "świeżo zmielony czarny pieprz",
+        "2 żółtka",
+        "1 łyżka oliwy truflowej",
+        "1 łyżka oleju ze słoika z suszonymi pomidorami"
+      ]
+    }
+  ]
+}
